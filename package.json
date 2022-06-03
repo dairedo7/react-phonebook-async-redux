@@ -1,8 +1,8 @@
 {
-  "name": "react-redux-phonebook",
+  "name": "react-phonebook-async-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dairedo7.github.io/react-redux-phonebook/",
+  "homepage": "https://dairedo7.github.io/react-phonebook-async-redux/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.2",
     "@testing-library/jest-dom": "^5.14.1",
