@@ -27,6 +27,12 @@ h2 {
   font-family: 'Times New Roman', Times, serif;
 }
 
+.loading {
+  text-align: center;
+  font-style: italic;
+  color: rgb(90, 216, 233);
+}
+
 .phonebook__title {
   color: rgb(98, 248, 248);
   font-size: 28px;
