@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-phonebook-async-redux/static/css/main.c779b08c.chunk.css",
-    "main.js": "/react-phonebook-async-redux/static/js/main.2846b8b2.chunk.js",
-    "main.js.map": "/react-phonebook-async-redux/static/js/main.2846b8b2.chunk.js.map",
-    "runtime-main.js": "/react-phonebook-async-redux/static/js/runtime-main.299de311.js",
-    "runtime-main.js.map": "/react-phonebook-async-redux/static/js/runtime-main.299de311.js.map",
-    "static/js/2.ffce3316.chunk.js": "/react-phonebook-async-redux/static/js/2.ffce3316.chunk.js",
-    "static/js/2.ffce3316.chunk.js.map": "/react-phonebook-async-redux/static/js/2.ffce3316.chunk.js.map",
-    "static/js/3.fea1f0e0.chunk.js": "/react-phonebook-async-redux/static/js/3.fea1f0e0.chunk.js",
-    "static/js/3.fea1f0e0.chunk.js.map": "/react-phonebook-async-redux/static/js/3.fea1f0e0.chunk.js.map",
+    "main.css": "/react-phonebook-async-redux/static/css/main.ac6dd154.chunk.css",
+    "main.js": "/react-phonebook-async-redux/static/js/main.dacf58f5.chunk.js",
+    "main.js.map": "/react-phonebook-async-redux/static/js/main.dacf58f5.chunk.js.map",
+    "runtime-main.js": "/react-phonebook-async-redux/static/js/runtime-main.557b946e.js",
+    "runtime-main.js.map": "/react-phonebook-async-redux/static/js/runtime-main.557b946e.js.map",
+    "static/js/2.fed438b7.chunk.js": "/react-phonebook-async-redux/static/js/2.fed438b7.chunk.js",
+    "static/js/2.fed438b7.chunk.js.map": "/react-phonebook-async-redux/static/js/2.fed438b7.chunk.js.map",
+    "static/js/3.747fe64b.chunk.js": "/react-phonebook-async-redux/static/js/3.747fe64b.chunk.js",
+    "static/js/3.747fe64b.chunk.js.map": "/react-phonebook-async-redux/static/js/3.747fe64b.chunk.js.map",
     "index.html": "/react-phonebook-async-redux/index.html",
-    "static/css/main.c779b08c.chunk.css.map": "/react-phonebook-async-redux/static/css/main.c779b08c.chunk.css.map",
-    "static/js/2.ffce3316.chunk.js.LICENSE.txt": "/react-phonebook-async-redux/static/js/2.ffce3316.chunk.js.LICENSE.txt"
+    "static/css/main.ac6dd154.chunk.css.map": "/react-phonebook-async-redux/static/css/main.ac6dd154.chunk.css.map",
+    "static/js/2.fed438b7.chunk.js.LICENSE.txt": "/react-phonebook-async-redux/static/js/2.fed438b7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.299de311.js",
-    "static/js/2.ffce3316.chunk.js",
-    "static/css/main.c779b08c.chunk.css",
-    "static/js/main.2846b8b2.chunk.js"
+    "static/js/runtime-main.557b946e.js",
+    "static/js/2.fed438b7.chunk.js",
+    "static/css/main.ac6dd154.chunk.css",
+    "static/js/main.dacf58f5.chunk.js"
   ]
 }
